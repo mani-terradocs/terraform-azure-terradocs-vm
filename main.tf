@@ -1,3 +1,11 @@
+/**
+*
+*
+* This module is published to help tf engineer to creating a azure VM
+*
+*
+*/
+
 # Configure the Azure provider
 provider "azurerm" {
   features {}
